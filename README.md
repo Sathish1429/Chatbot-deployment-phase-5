@@ -1,2 +1,2 @@
-# Chatbot-deployment-phase-1
+# Chatbot-deployment
 Chatbot deployment with IBM cloud watson assistance
